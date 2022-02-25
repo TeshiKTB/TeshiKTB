@@ -3,7 +3,7 @@
 A Maths student at University of Brasilia (UnB) and I really like to program. Welcome to my Github!
 
 <div>
-  <img align="right" height="350" src="https://steamuserimages-a.akamaihd.net/ugc/1773832038147189269/BA0F99143B416D3427C96CB3102E3B5DE19B7720/?imw=160&imh=160&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+  <img align="right" height="300" src="https://steamuserimages-a.akamaihd.net/ugc/1773832038147189269/BA0F99143B416D3427C96CB3102E3B5DE19B7720/?imw=160&imh=160&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 </div>
 
 [![Teshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeshiKTB&count_private=true&show_icons=true&theme=radical)](https://github.com/TeshiKTB/github-readme-stats)
