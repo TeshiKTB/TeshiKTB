@@ -4,8 +4,8 @@ A Maths student at University of Brasilia (UnB) and I really like to program. We
 
 <div align="center">
   <a href="https://github.com/TeshiKTB">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=TeshiKTB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeshiKTB&theme=radical"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TeshiKTB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeshiKTB&theme=radical"/>
 </div>
 
 <!--
